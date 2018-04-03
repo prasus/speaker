@@ -1,6 +1,6 @@
-# Flux 
+# IBM Cloud Platform
 
-An application architecture for React
+First Impressions.
 
 ---
 
