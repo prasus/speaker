@@ -1,4 +1,4 @@
-theme : beige
+theme : white
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : hybrid
