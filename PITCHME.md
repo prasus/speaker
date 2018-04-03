@@ -1,6 +1,5 @@
-# IBM Cloud Platform
 
-First Impressions.
+![IBM Cloud Platform](assets/ibm-cloud.png)
 
 ---
 
